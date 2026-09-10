@@ -1,5 +1,5 @@
 # garbage-to-road-project|AITM BELAGAVI 
-wastage used to make roads without using cost
+wastage used to make roads without using more cost
 
 
 ### Problem
